@@ -1,0 +1,9 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(55, 0, 255);
+}
+
+img{
+    transform: translate(50%, 0%);
+}
